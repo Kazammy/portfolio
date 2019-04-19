@@ -23,7 +23,23 @@
 .sidebar {
   width: 35%;
   float: right;
-  background-color: yellow
+  background-color: yellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.ee {
+  text-align: center;
+  text-decoration-style: dashed;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+.ff {
+  font-family: fantasy;
+  font-style: italic;
+  font-variant: small-caps;
+  font-stretch: extra-expanded;
 }
 .cc {
   font-style: italic;
