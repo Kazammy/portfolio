@@ -25,6 +25,13 @@
   float: right;
   background-color: yellow
 }
+.cc {
+  font-style: italic;
+  font-weight: 200;
+  font-variant: small-caps;
+  font-stretch: semi-condensed;
+  font-kerning: normal;
+}
 .ke {
   text-decoration: underline;
   color: red;
