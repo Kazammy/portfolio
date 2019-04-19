@@ -23,6 +23,8 @@
   font-style: italic;
   color: red;
   font-family: cursive;
+  text-align: center;
+  text-shadow: black 2px 5px;
 }
 .me {
   font-style: oblique;
@@ -33,4 +35,9 @@
   font-style: italic;
   color: green;
   font-family: fantasy;
+}
+.important {
+  line-height: normal;
+  font-style: italic;
+  color: pink;
 }
