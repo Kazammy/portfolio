@@ -29,8 +29,8 @@
   color: blue;
   font-family: sans-serif;
 }
-
-
-
-
+.decs {
+  font-style: italic;
+  color: green;
+  font-family: fantasy;
 }
